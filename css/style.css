@@ -100,7 +100,7 @@ button {
 
 .header__wrap {
   margin-top: 2.2916666667vw;
-  margin-bottom: 1.9791666667vw;
+  margin-bottom: 1.6145833333vw;
 }
 
 .nav-active {
@@ -214,7 +214,7 @@ hr {
 }
 
 .header__info {
-  padding-top: 1.40625vw;
+  padding-top: 1.0416666667vw;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -252,6 +252,7 @@ hr {
 }
 
 .header__info-tel {
+  margin-left: 1.3020833333vw;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -269,7 +270,7 @@ hr {
   text-align: center;
   letter-spacing: 0.02em;
   color: #1c1c1c;
-  margin-bottom: 0.8635416667vw;
+  margin-bottom: 0.8854166667vw;
 }
 
 .header__info-item-tel {
@@ -356,11 +357,11 @@ hr {
 }
 
 .grid {
-  padding-top: 4.375vw;
+  padding-top: 5.9895833333vw;
   margin-bottom: 8.4375vw;
   height: 100%;
   display: grid;
-  grid-gap: 3.6979166667vw;
+  grid-gap: 4.6354166667vw;
   grid-template-columns: 11.71875vw 1fr 1fr;
   grid-template-rows: 1fr;
   grid-template-areas: "aside main";
@@ -423,7 +424,7 @@ main {
 
 .slider__roof-title {
   margin-bottom: 0.9895833333vw;
-  width: 33.59375vw;
+  width: 35.15625vw;
   font-weight: 300;
   font-size: 2.8645833333vw;
   line-height: 4.4270833333vw;
@@ -1225,7 +1226,7 @@ main {
   }
 
   .vigorous {
-    left: -32.5rem;
+    left: -38.75rem;
     max-width: 26.875rem;
     background: #edf2f5;
     top: 55px;
@@ -1252,7 +1253,7 @@ main {
   }
 
   .vigorous-item {
-    left: -32.5rem;
+    left: -38.75rem;
     max-width: 26.875rem;
     background: #edf2f5;
     top: 342px;

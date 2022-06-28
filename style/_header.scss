@@ -21,7 +21,7 @@
 
 .header__wrap {
   margin-top: vw(44);
-  margin-bottom: vw(38);
+  margin-bottom: vw(31);
 }
 
 .nav-active {
@@ -116,7 +116,7 @@ hr {
 }
 
 .header__info {
-  padding-top: vw(27);
+  padding-top: vw(20);
   display: flex;
   justify-content: space-between;
 }
@@ -142,6 +142,7 @@ hr {
 }
 
 .header__info-tel {
+  margin-left: vw(25);
   display: flex;
 }
 
@@ -157,7 +158,7 @@ hr {
   text-align: center;
   letter-spacing: 0.02em;
   color: #1c1c1c;
-  margin-bottom: vw(16.58);
+  margin-bottom: vw(17);
 }
 
 .header__info-item-tel {

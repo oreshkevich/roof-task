@@ -1,9 +1,9 @@
 .grid {
-  padding-top: vw(84);
+  padding-top: vw(115);
   margin-bottom: vw(162);
   height: 100%;
   display: grid;
-  grid-gap: vw(71);
+  grid-gap: vw(89);
   grid-template-columns: vw(225) 1fr 1fr;
   grid-template-rows: 1fr;
   grid-template-areas: 'aside main';
@@ -49,7 +49,7 @@ main {
 
 .slider__roof-title {
   margin-bottom: vw(19);
-  width: vw(645);
+  width: vw(675);
   font-weight: 300;
   font-size: vw(55);
   line-height: vw(85);
