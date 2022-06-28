@@ -27,8 +27,8 @@ main {
 }
 .card__text {
   margin-top: vw(24);
-  margin-bottom: vw(24);
-  width: vw(145);
+  margin-bottom: vw(4);
+  width: vw(147);
   font-weight: 400;
   font-size: vw(14);
   line-height: vw(22);
@@ -46,10 +46,12 @@ main {
   flex-direction: column;
   text-align: center;
 }
-
+.card__item {
+  margin-top: vw(10);
+}
 .slider__roof-title {
   margin-bottom: vw(19);
-  width: vw(675);
+  width: vw(650);
   font-weight: 300;
   font-size: vw(55);
   line-height: vw(85);
@@ -75,12 +77,14 @@ main {
   cursor: pointer;
   width: vw(9.21);
   height: vw(9.21);
-  margin-right: vw(7);
+  margin-right: vw(3);
   display: inline-block;
   transition: background-color 0.6s ease;
   border-radius: vw(500);
 }
-
+.picture-slider-dots {
+  margin-top: vw(15);
+}
 .picture-dot-active {
   border: vw(1.5) solid #12c868;
 }

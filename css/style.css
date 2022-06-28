@@ -390,8 +390,8 @@ main {
 
 .card__text {
   margin-top: 1.25vw;
-  margin-bottom: 1.25vw;
-  width: 7.5520833333vw;
+  margin-bottom: 0.2083333333vw;
+  width: 7.65625vw;
   font-weight: 400;
   font-size: 0.7291666667vw;
   line-height: 1.1458333333vw;
@@ -422,9 +422,13 @@ main {
   text-align: center;
 }
 
+.card__item {
+  margin-top: 0.5208333333vw;
+}
+
 .slider__roof-title {
   margin-bottom: 0.9895833333vw;
-  width: 35.15625vw;
+  width: 33.8541666667vw;
   font-weight: 300;
   font-size: 2.8645833333vw;
   line-height: 4.4270833333vw;
@@ -452,11 +456,15 @@ main {
   cursor: pointer;
   width: 0.4796875vw;
   height: 0.4796875vw;
-  margin-right: 0.3645833333vw;
+  margin-right: 0.15625vw;
   display: inline-block;
   -webkit-transition: background-color 0.6s ease;
   transition: background-color 0.6s ease;
   border-radius: 26.0416666667vw;
+}
+
+.picture-slider-dots {
+  margin-top: 0.78125vw;
 }
 
 .picture-dot-active {
